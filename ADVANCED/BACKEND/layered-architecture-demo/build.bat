@@ -1,0 +1,3 @@
+@echo off
+echo Starting Layered Architecture Demo...
+mvn spring-boot:run

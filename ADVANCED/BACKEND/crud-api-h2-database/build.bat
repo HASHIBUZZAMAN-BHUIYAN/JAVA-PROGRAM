@@ -1,0 +1,3 @@
+@echo off
+echo Starting CRUD API with H2 Database...
+mvn spring-boot:run

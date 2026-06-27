@@ -1,0 +1,3 @@
+@echo off
+echo Starting Validation + Error Handling API...
+mvn spring-boot:run

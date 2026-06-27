@@ -1,0 +1,3 @@
+@echo off
+echo Starting JWT Auth Demo...
+mvn spring-boot:run
