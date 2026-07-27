@@ -163,3 +163,8 @@ See [ADVANCED/ANDROID/README.md](ADVANCED/ANDROID/README.md) and `ANDROID_REAL_S
 - Maven preferred over Gradle (faster on limited RAM)
 - No ML/AI libraries (no GPU)
 - Spring Boot apps use ~300–400MB RAM each; don't run multiple simultaneously
+
+## Author
+
+Hashibuzzaman Bhuiyan
+
