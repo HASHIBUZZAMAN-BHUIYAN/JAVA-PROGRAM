@@ -168,3 +168,8 @@ See [ADVANCED/ANDROID/README.md](ADVANCED/ANDROID/README.md) and `ANDROID_REAL_S
 
 Hashibuzzaman Bhuiyan
 
+
+## License
+
+This project is licensed under the [PolyForm Strict License 1.0.0](LICENSE) -- viewable for noncommercial/personal use, but redistribution and derivative works are not permitted.
+
